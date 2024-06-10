@@ -1,0 +1,20 @@
+#: locale=sv
+
+## Media
+
+### Title
+album_146C784E_00EC_CEFC_4163_663961354475.label = Photo Album R10052
+panorama_172078FA_0237_E598_4179_5D648A646F12.label = R0010052
+album_146C784E_00EC_CEFC_4163_663961354475_0.label = R10052
+
+## Popup
+
+### Body
+htmlText_1EF181C1_020E_E7E8_417C_846211A7E5E4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Här har labbet en 3D printer</SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
